@@ -1,4 +1,4 @@
-# Meu Projeto Next.js
+# Challenge Mouts Frontend
 
 Este é um projeto desenvolvido com [Next.js](https://nextjs.org), que é um framework React para construção de aplicações web modernas. O projeto é uma aplicação de gerenciamento de usuários, permitindo a criação, edição e exclusão de usuários, além de exibir uma tabela com informações dos usuários.
 
@@ -18,6 +18,12 @@ Este é um projeto desenvolvido com [Next.js](https://nextjs.org), que é um fra
 - **TanStack Table**: Biblioteca para criação de tabelas altamente personalizáveis.
 - **Shadcn UI**: Conjunto de componentes de interface de usuário para React.
 - **React Query**: Biblioteca para gerenciamento de estado e sincronização de dados com o servidor.
+
+## Screenshoots
+
+![Criação](create.png)
+![Edição](update.png)
+![Exclusão](delete.png)
 
 ## Como Rodar o Projeto
 
@@ -60,6 +66,10 @@ Este é um projeto desenvolvido com [Next.js](https://nextjs.org), que é um fra
 
 5. **Acesse a aplicação**:
    Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
+
+**Nota:** É necessário que o backend da aplicação esteja rodando localmente para que todas as funcionalidades do frontend funcionem corretamente. Certifique-se de que o servidor backend esteja ativo e acessível.
+
+[Projeto de Backend](https://github.com/Fox-Carlinhos/mouts-challenge-back)
 
 ## Deploy no Vercel
 
