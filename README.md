@@ -21,6 +21,7 @@ Este é um projeto desenvolvido com [Next.js](https://nextjs.org), que é um fra
 
 ## Screenshoots
 
+![Tela](screen.png)
 ![Criação](create.png)
 ![Edição](update.png)
 ![Exclusão](delete.png)
